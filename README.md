@@ -1,10 +1,12 @@
 <h2 align = 'CENTER'>Proposed Methology</h2>
 <p style="align: center;">
- <img src="https://github.com/user-attachments/assets/152bd0be-ceef-498f-9978-df00510e6587" alt="framework_overview" width="500">
+ <img src="https://github.com/user-attachments/assets/152bd0be-ceef-498f-9978-df00510e6587" alt="framework_overview" width="100%">
 </p>
 
+<p style="align: center;">
+ <img src="https://github.com/user-attachments/assets/ab359851-2929-40f0-8497-5ce70a969021" alt="heatmap" width="50%">
+</p>
 
-![probability](https://github.com/user-attachments/assets/ab359851-2929-40f0-8497-5ce70a969021)
 
 ## Performance Metrics
 The table below summarizes the performance for different scripts across various thresholds.
@@ -14,11 +16,11 @@ The table below summarizes the performance for different scripts across various 
 | **Bengali**  | 0.50      | 92.18      | 42.43         | 56.43         |
 |              | 0.60      | 89.21      | 56.30         | 69.03         |
 |              | 0.70      | 83.21      | 75.12         | 78.95         |
-|              | 0.75      | 82.69      | 79.34         | **80.98**       |
+|              | 0.75      | 82.69      | 79.34         | **80.98**     |
 |              | 0.80      | 81.11      | 80.12         | 80.61         |
 |              | 0.85      | 78.12      | 81.23         | 79.64         |
 |              | 0.95      | 59.68      | 87.82         | 71.06         |
-| **Devanagari** | 0.50     | 96.91      | 50.01         | 64.19         |
+| **Devanagari** | 0.50     | 96.91      | 50.01         | 64.19        |
 |              | 0.60      | 88.21      | 60.46         | 71.74         |
 |              | 0.70      | 83.45      | 78.58         | 80.94         |
 |              | 0.75      | 81.56      | 79.41         | 80.47         |
