@@ -47,5 +47,9 @@ The table below summarizes the performance for different scripts across various 
 
 <h2 >Sample results on ICDAR 2013 Focused scene dataset</h2>
 
+ <img src="https://github.com/user-attachments/assets/04b5ff19-83cb-44e2-9db6-70d15d8e961f" alt="icdar" width="75%">
+
 <h2>Sample results on Total Text (curved text) dataset</h2>
+
+ <img src="https://github.com/user-attachments/assets/67a2d250-26d9-41c0-a085-32f6f3bfa1fa" alt="total_text" width="75%">
 
