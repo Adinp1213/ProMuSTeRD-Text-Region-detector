@@ -45,3 +45,7 @@ The table below summarizes the performance for different scripts across various 
 
 ![test_heatmaps](https://github.com/user-attachments/assets/416c5a53-9653-4630-bb50-f7407a2aa851)
 
+<h2 >Sample results on ICDAR 2013 Focused scene dataset</h2>
+
+<h2>Sample results on Total Text (curved text) dataset</h2>
+
